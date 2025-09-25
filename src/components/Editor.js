@@ -16,7 +16,7 @@ const defaultSettings = {
 	bgColor: "#949ee5",
 	pattern: "",
 	download: "PNG",
-	author: 'Rutik Wankhade',
+	author: '周小天',
 	icon: defaultIcon,
 	devIconOptions: [defaultIcon],
 	font: 'font-Anek',
